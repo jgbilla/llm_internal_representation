@@ -11,7 +11,10 @@ We have 4 tasks:
 
 We randomly select 1000 data points for each task. The accuracy of gpt4-o on these tasks are
 Task 1: $0.950497287522604$
+
 Task 2: $0.9570858283433133$
+
 Task 3: $0.964035964035964$
+
 Task 4: $0.96$
 
