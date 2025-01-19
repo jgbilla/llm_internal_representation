@@ -10,6 +10,7 @@ We have 4 tasks:
 4. Task 4: Given an initial state and a list of actions that were taken, the model outputs the next action $x_t$ that is legal. This task ensures that the model can follow through intermediary states, and output a final legal action on the second to last state.
 
 We randomly select 1000 data points for each task. The accuracy of gpt4-o on these tasks are
+g
 Task 1: $0.950497287522604$
 
 Task 2: $0.9570858283433133$
